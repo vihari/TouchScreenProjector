@@ -1,6 +1,6 @@
 /*The MIT License (MIT)
 
-Copyright (c) <2013> <Vihari Piratla>
+Copyright (c) <2013> <Vihari Piratla & Mohit Yadav>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -57,7 +57,8 @@ THE SOFTWARE.*/
  *            segmentation fault
  *      To use this code one should have the environment set up with OpenCV.
  * 
- *      Email: viharipiratla@gmail.com              
+ *      Email: viharipiratla@gmail.com
+ * 	Email: mohitlkodak10@gmail.com
 -----------*/
 
 #include "stdafx.h"
@@ -299,7 +300,7 @@ int calibrate(void){
 
   float bb[8] = { -dots[0].x, -dots[1].x, -dots[2].x, -dots[3].x, -dots[0].y, -dots[1].y, -dots[2].y, -dots[3].y };
 
-  // gauß-elimination
+  // gauï¿½-elimination
   /*Gauss-Jordon elimination to solve for the mapping coefficients
    Where matrix matrix is the equations to be solved
    and bb is the right hand side values.
