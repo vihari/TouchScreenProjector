@@ -1,6 +1,6 @@
 /*The MIT License (MIT)
 
-Copyright (c) <2013> <Vihari Piratla & Mohit Yadav>
+Copyright (c) <2013> <Vihari Piratla & Mohit Yadav & Jai Prakash>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
